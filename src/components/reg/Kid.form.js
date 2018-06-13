@@ -5,7 +5,7 @@ export default function(formProps) {
   const {
     values,
     handleChange,
-    handleBlur,
+    handleBlur
   } = formProps;
   const {
     name,
